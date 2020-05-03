@@ -74,12 +74,12 @@
     <boolean name="GsaPrefs.Bisto__reconnect_on_gsa_voice_interaction_service_ready" value="true" />
     <boolean name="flag.9881" value="true" />
     <boolean name="flag.9509" value="true" />
-    <string name="flag.7324">en-US,en-AU,en-CA,en-GB,en-IE,en-SG,ja-JP</string>
-    <string name="flag.7325">Pixel 3,Pixel 3 (Android),Pixel 3 XL,Pixel 4,Pixel 4 (Android),Pixel 4 XL,Pixel 4a,coral,flame,needlefish,sunfish</string>
+    <string name="flag.7324">en-US,en-AU,en-CA,en-GB,en-IE,en-IN,en-SG,ja-JP</string>
+    <string name="flag.7325">Pixel 3,Pixel 3 (Android),Pixel 3 XL,Pixel 4,Pixel 4 (Android),Pixel 4 XL,Pixel 4a,Mi A2,coral,flame,needlefish,sunfish,jasmine_sprout</string>
     <boolean name="flag.12319" value="true" />
     <boolean name="flag.10259" value="true" />
     <boolean name="flag.11346" value="true" />
-    <string name="GSAPrefs.google_account">nishantkumar713@gmail.com</string>
+    <string name="GSAPrefs.google_account">manish.n.manish45@gmail.com</string>
     <boolean name="flag.11581" value="true" />
     <boolean name="flag.8665" value="true" />
     <boolean name="flag.8422" value="true" />
